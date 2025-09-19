@@ -1,0 +1,9 @@
+resumo :
+
+- abre o terminal no "git bash"
+- da git init
+- git pull
+- git add .
+- git commit -m "qualquer comentario"
+- git push (se nao funcionar, git push -u origin main)
+
